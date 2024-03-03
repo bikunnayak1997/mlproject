@@ -22,8 +22,8 @@ class CustomException(Exception):
 
 
 #if __name__=="__main":
-    #try:
-     #   a=1/0
+   # try:
+       # a=1/0
     #except Exception as e:
-     #   logging.info("Divided by Zero")
-      #  raise CustomException(e,sys)
+        #logging.info("Divided by Zero")
+        #raise CustomException(e,sys)
