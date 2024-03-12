@@ -25,3 +25,9 @@
  ```
  all the algortihm we can choice  then choose the hyperparameter 
  ```
+ # Predicted Pipeline 
+ ```
+ 1. crete a a templated floder then index.html and home . html file are creted 
+ 2. after that creted a prediction class and in utils we creted a class for load_obj 
+ ````
+ 
