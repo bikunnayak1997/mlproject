@@ -13,4 +13,15 @@
 2. git commit -m "chnage file name"
 3. git push -u origin main
 4. git status # for check the what type of file are add or deleted the file  
+
+ ```
+ # Data Transformation 
+ ```
+ 1. first standarscaler  check if any missing value are present in data set or not 
+ 2. then by using diffrent type imputer and scalling are used 
+ 3. create a pipe by numericsl and caterogrical 
+ ```
+ # model trainer 
+ ```
+ all the algortihm we can choice  then choose the hyperparameter 
  ```
